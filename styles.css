@@ -1,0 +1,155 @@
+h1 {
+    color: rgb(2, 138, 25);
+    font-size: 180%;
+    font-family: Helvetica;
+    text-align: center;
+    border: 2px; 
+ 
+}
+
+body {
+    background-color: rgb(197, 247, 222);
+    color:rgb(132, 221, 158);
+}
+
+p {
+    color: rgb(17, 16, 17);
+    font-size: 16px;
+    font-family: sans-serif;
+    text-align: center;
+    
+ }
+
+ h2 {
+    color: rgb(2, 138, 25);
+    font-size: 200%;
+    font-family: sans-serif;
+    text-align: center;
+ }
+
+ h3 {
+   color: rgb(2, 138, 25);
+    font-size: 120%;
+    font-family: sans-serif;
+    text-align: center;
+ }
+
+ a {
+    color: rgb(27, 161, 106);
+    font-size: 100%;
+    font-family: verdana;
+    right: 600px;
+    bottom: 100px;
+ }
+
+ img {
+    text-align: left;
+    image-orientation: left;
+    right: 600px;
+    bottom: 100px;
+    border: 3px solid;
+   
+ }
+
+ footer {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(6, 49, 31);
+    padding: 2px;
+    
+    }
+
+ .contato {
+   text-align: center;
+   font-size: 40px;
+   color: rgb(6, 49, 31);
+   padding: 1px 1px;
+   width: 100%;
+   margin: 0%;
+ }
+
+ .cabecalho {
+   height: 80px;
+	background-color: #000000;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 80px;
+	border-bottom: 1px solid #282828;
+ }
+
+ .cabecalho .logo {
+	display: flex;
+	gap: 15px;
+}
+
+.cabecalho .menu {
+	display: flex;
+	gap: 30px;
+}
+
+.cabecalho .menu li a {
+	padding: 30px;
+	color: #098f2a;
+	font-weight: bolder;
+	font-size: 15px;
+	font-family: "Chalet";
+}
+
+.cabecalho .menu li a:hover {
+	border-bottom: 2px solid #fff;
+}
+
+ .menu {
+   font-size: 16px;
+   color: rgb(2, 138, 25);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: center;
+
+ }
+
+ .cursos {
+   font-size: 16px;
+   color:rgb(0, 0, 0);
+   text-align: center;
+   font-family: Verdana;
+   position: center;
+   margin-left: 10px;
+ }
+
+ .cursoslink {
+   font-size: 15px;
+   font-weight: bold;
+   color:rgb(0, 0, 0);
+   text-align: center;
+   font-family: Verdana;
+   width: 10%;
+   height: 10%;
+   position: center;
+   margin-left: 45%;
+   
+  }
+
+.fotocurso {
+   padding-left: 35%;
+   width: 10%;
+   height: 10%;
+   position: center;
+
+}
+
+
+.logo {
+   heigth: 12%;
+   width: 12%;
+}
+
+.adress {
+   margin-left: 40%;
+   padding: 1px;
+   text-align: center;
+   font-size: 10px;
+   font-family: sans-serif;
+   }
+
+  
